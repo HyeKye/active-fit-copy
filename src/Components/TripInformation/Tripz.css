@@ -1,0 +1,54 @@
+.trip-container-wrapper {
+    height: 60%;
+    width: 77%;
+    min-width: 400px;
+    margin: 5px auto;
+  }
+  .trip-header{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+  }
+  .aboutTrip {
+    background-color: white;
+    border: 2px black solid;
+    padding: 1%;
+  }
+  .trip-header p {
+    background-color: white;
+    font-weight: bold;
+    
+  }
+  .trip-header h2 {
+    background-color: white;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  .date{
+    background-color: white;
+    text-align: center;
+  }
+  .trip-border {
+    background-color: white;
+    border: 1px solid #d3d3d3;
+    margin: 15px 0;
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    padding: 2%;
+    font-weight: bold;
+  }
+  .pwrapper{
+    background-color: white;
+    padding-top: 3%;
+  }
+  .trip-image-wrapper {
+    height: 100%;
+    width: 95%;
+    padding: 2%;
+  }
+  .trip-image {
+    width: 100%;
+  }
+  .trip-header {
+    display: flex;
+    background-color: white;
+  }
